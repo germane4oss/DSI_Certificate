@@ -1,6 +1,6 @@
-## Day 1 - Introduction to Unix Shell
+# Day 1 - Introduction to Unix Shell
 
-# Homework:
+## Homework:
 
 ---
 ##### **Prompt:**
@@ -20,7 +20,7 @@ Create one directory in any parent directory of your choice. This new directory 
 
 ---
 
-# Solution:
+## Solution:
 
 ```bash
 german@Server-TR:~$ pwd  
